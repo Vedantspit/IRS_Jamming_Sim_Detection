@@ -1,10 +1,10 @@
-# 🛰️ IRS-Aided Attack Detection Framework for UAV-Assisted Networks in 5G and Beyond
+# 🛰️ IRS-Aided Attack Detection Framework
 
 This repository contains the source code, simulation setup, and model implementation for a secure UAV communication framework that integrates **Intelligent Reflecting Surfaces (IRS)** and a **CNN-LSTM deep learning model** for **real-time jamming detection** in 5G mmWave networks.
 
 The framework is evaluated using **ns-3 simulations** under various jammer and user mobility scenarios.
 
----
+ <!--
 
 ## 📌 Features
 
@@ -24,4 +24,4 @@ The framework is evaluated using **ns-3 simulations** under various jammer and u
 - `ns-3` (modified mmWave + IRS support)
 - Python (`TensorFlow`, `Keras`, `NumPy`, `Matplotlib`)
 - CNN-LSTM deep learning architecture
-- Data formats: SINR and RSSI time-series logs (CSV)
+- Data formats: SINR and RSSI time-series logs (CSV) -->
