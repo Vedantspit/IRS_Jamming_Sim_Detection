@@ -63,7 +63,7 @@ The proposed **CNN-LSTM model** outperforms traditional ML classifiers in detect
 | Jammer Transmit Power   | 3000 dBm               |
 | Simulation Duration     | 180 seconds            |
 
----
+<!-- ---
 
 ## 🚀 Getting Started
 
@@ -82,4 +82,4 @@ pip install -r requirements.txt
 
 # Train the CNN-LSTM model
 python train_model.py
-```
+``` -->
