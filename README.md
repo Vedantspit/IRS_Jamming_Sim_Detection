@@ -4,8 +4,6 @@ This repository contains the source code, simulation setup, and model implementa
 
 The framework is evaluated using **ns-3 simulations** under various jammer and user mobility scenarios.
 
- <!--
-
 ## 📌 Features
 
 - 🔄 **IRS-Assisted Communication**: Enhances resilience by rerouting signals around obstacles and jammers.
