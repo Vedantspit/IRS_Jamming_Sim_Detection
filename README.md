@@ -34,7 +34,7 @@ The proposed **CNN-LSTM model** outperforms traditional ML classifiers in detect
 
 **Model Validation Accuracy Comparison**
 
-![Validation Accuracy](results/validation_accuracy.png)
+<!-- ![Validation Accuracy](results/validation_accuracy.png) -->
 
 | Model                 | Validation Accuracy |
 | --------------------- | ------------------- |
